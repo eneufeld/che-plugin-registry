@@ -5,4 +5,4 @@ name: theia-ide
 title: Eclipse Theia for Eclipse Che
 description: Custom config of Eclipse Theia with custom volume
 icon: https://raw.githubusercontent.com/theia-ide/theia/master/logo/theia-logo-no-text-black.svg?sanitize=true
-url: https://raw.githubusercontent.com/garagatyi/che-editor-theia/master/etc/che-plugin.yaml
+url: https://github.com/garagatyi/che-editor-theia/releases/download/customvolume/che-editor-plugin.tar.gz

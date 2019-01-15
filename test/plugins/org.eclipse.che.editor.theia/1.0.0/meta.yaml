@@ -1,8 +1,8 @@
-id: org.eclipse.che.editor.theia
+id: org.eclipse.che.editor.custom-theia
 version: 1.0.0
 type: Che Editor
-name: theia-ide
-title: Eclipse Theia for Eclipse Che
-description: Custom config of Eclipse Theia with custom volume
+name: custom-theia-ide
+title: Custom Eclipse Theia for Eclipse Che
+description: Custom Eclipse Theia
 icon: https://raw.githubusercontent.com/theia-ide/theia/master/logo/theia-logo-no-text-black.svg?sanitize=true
-url: https://github.com/garagatyi/che-editor-theia/releases/download/customvolume/che-editor-plugin.tar.gz
+url: https://github.com/eneufeld/che-editor-theia/releases/download/Custom/che-editor-plugin.tar.gz
